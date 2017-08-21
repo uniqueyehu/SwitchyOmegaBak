@@ -13,3 +13,23 @@
 ```
 "word_wrap": true
 ```
+
+**3. 高亮显示当前行**
+```
+"highlight_line": true
+```
+
+**User文件**
+```
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"word_wrap": true,
+	"show_encoding": true,
+	"highlight_line": true,
+}
+```
