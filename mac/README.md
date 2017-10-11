@@ -17,4 +17,8 @@ Xcode是Apple的一个开发工具和库集合，Xcode Command Line Tools是Xcod
 
 ## HomeBrew
 
+[HomeBrew配置](https://github.com/uniqueyehu/config-files/blob/master/mac/homebrew.md)
+
 ## iTerm2 + oh-my-zsh
+
+[iTerm2配置](https://github.com/uniqueyehu/config-files/blob/master/mac/iterm2.md)

@@ -2,7 +2,7 @@
 用来存放各种配置文件
 
 ## fonts
-字体文件
+[字体文件](https://github.com/uniqueyehu/config-files/tree/master/fonts)
 
 ## homebrew
 [HomeBrew](https://github.com/uniqueyehu/config-files/tree/master/homebrew)
