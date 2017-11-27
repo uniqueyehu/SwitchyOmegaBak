@@ -9,4 +9,6 @@ syntax on
 set number "显示行号
 set tabstop=4 "设定tab长度为4
 set cursorline "突出显示当前行
+set wrap "设置自动折行
+set nowrap "设置不自动折行
 ```
