@@ -24,6 +24,10 @@ cd "$(brew --repo)/Library/Taps/homebrew/homebrew-core"
 git remote set-url origin https://mirrors.ustc.edu.cn/homebrew-core.git
 
 
+关闭homebrew的自动更新（临时）：
+export HOMEBREW_NO_AUTO_UPDATE=true
+
+
 参考：
 https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git
 https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/
