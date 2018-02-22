@@ -1,0 +1,29 @@
+homebrew update 慢，解决方法？
+
+主要包含两部分：
+git repo：brew.git & homebrew-core.git
+二进制bottles
+
+
+默认brew.git源：
+cd "$(brew --repo)"
+git remote set-url origin https://github.com/Homebrew/brew.git
+
+默认homebrew-core.git源：
+cd "$(brew --repo)/Library/Taps/homebrew/homebrew-core"
+git remote set-url origin https://github.com/Homebrew/homebrew-core.git
+
+
+中科大源：
+替换brew.git:
+cd "$(brew --repo)"
+git remote set-url origin https://mirrors.ustc.edu.cn/brew.git
+
+替换homebrew-core.git:
+cd "$(brew --repo)/Library/Taps/homebrew/homebrew-core"
+git remote set-url origin https://mirrors.ustc.edu.cn/homebrew-core.git
+
+
+参考：
+https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git
+https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/
