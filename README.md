@@ -1,11 +1,9 @@
-# config-files
-用来存放各种配置文件
+用来存放各种配置和相关文件
 
-## fonts
-[字体文件](https://github.com/uniqueyehu/config-files/tree/master/fonts)
+# 内容
+1. [iTerm中使用的一种字体](https://github.com/uniqueyehu/config-files/tree/master/fonts)
 
-## homebrew
-[HomeBrew](https://github.com/uniqueyehu/config-files/tree/master/homebrew)
+2. [HomeBrew](https://github.com/uniqueyehu/config-files/tree/master/homebrew)
 
 ## Mac
 [基本设置](https://github.com/uniqueyehu/config-files/tree/master/mac)
