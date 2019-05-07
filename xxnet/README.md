@@ -1,6 +1,3 @@
-# XX-Net
-## SwitchyOmegaBak
-SwitchyOmega配置文件
+1. SwitchyOmega配置文件`SwitchOptions.bak`
 
-## XX-Net配置
-[配置](https://github.com/uniqueyehu/blog/blob/master/blogmd/xxnet.md)
+2. [XX-Net配置](https://github.com/uniqueyehu/blog/blob/master/blogmd/xxnet.md)
